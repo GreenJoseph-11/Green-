@@ -13,22 +13,18 @@
             line-height: 1.6;
             background-color: #f8f8f8;
         }
-
         h1 {
             color: #2e8b57;
         }
-
         h2 {
             color: #3cb371;
         }
-
         blockquote {
             background-color: #f5f5f5;
             padding: 15px;
             border-left: 4px solid #2e8b57;
             margin: 20px 0;
         }
-
         #game-container {
             margin-top: 40px;
             padding: 20px;
@@ -37,33 +33,28 @@
             background-color: #fff;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
-
         .game-header {
             display: flex;
             justify-content: space-between;
             margin-bottom: 15px;
             flex-wrap: wrap;
         }
-
         #game-board {
             display: flex;
             flex-direction: column;
             align-items: center;
         }
-
         #tetris {
             border: 2px solid #2e8b57;
             background-color: #000;
             margin-bottom: 15px;
         }
-
         .game-info {
             display: flex;
             justify-content: space-between;
             width: 100%;
             margin-bottom: 15px;
         }
-
         .info-box {
             padding: 10px;
             background-color: #f0f8f4;
@@ -71,7 +62,6 @@
             text-align: center;
             min-width: 80px;
         }
-
         .controls {
             margin-top: 20px;
             padding: 15px;
@@ -79,13 +69,11 @@
             border-radius: 5px;
             width: 100%;
         }
-
         .controls h3 {
             color: #2e8b57;
             margin-top: 0;
             text-align: center;
         }
-
         .key {
             display: inline-block;
             padding: 3px 8px;
@@ -97,13 +85,11 @@
             min-width: 30px;
             text-align: center;
         }
-
         .key-row {
             display: flex;
             justify-content: space-between;
             margin: 10px 0;
         }
-
         button {
             background-color: #2e8b57;
             color: white;
@@ -114,17 +100,14 @@
             margin: 5px;
             font-weight: bold;
         }
-
         button:hover {
             background-color: #3cb371;
         }
-
         .buttons {
             display: flex;
             justify-content: center;
             margin-top: 15px;
         }
-
         .score-display {
             font-size: 18px;
             font-weight: bold;
